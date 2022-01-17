@@ -1,0 +1,7 @@
+.wlqab_ld_show_quiz_answer{
+    color: blue;
+    cursor: pointer;
+}
+.wlqab_ld_show_quiz_answer.active{
+    color: red;
+}
